@@ -1,5 +1,3 @@
-import { Component } from '@angular/core';
-
 import { products } from '../products';
 import { Component, OnInit } from '@angular/core';
 import { Input } from '@angular/core';
